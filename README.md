@@ -1,8 +1,16 @@
 ## ✏️ Today I Learned
 
+### [4월 다섯째주, 5주차] : 웹 응용
+
+웹 응용 (인증/인가 공부)
+
+<ul>
+<li>24.04.29 - <a href="https://github.com/100-hours-a-week/jikky-til/blob/main/Apr/2024-04-29.md">🔗인증 인가 공부 - jwt 단점 보완</a></li>
+</ul>
+
 ### [4월 넷째주, 4주차] : git, js 응용
 
-커뮤니티 FE ES6 리팩토링, js 응용
+커뮤니티 FE ES6 리팩토링 & 인증 인가, js 응용
 
 <ul>
 <li>24.04.26 - <a href="https://github.com/jjikky/jikky-til/blob/main/Apr/2024-04-26.md">🔗커뮤니티 jwt → 쿠키/세션으로 변경</a></li>
