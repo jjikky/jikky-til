@@ -5,6 +5,7 @@
 웹 응용 (인증/인가 공부)
 
 <ul>
+<li>24.04.30 - <a href="https://github.com/100-hours-a-week/jikky-til/blob/main/Apr/2024-04-30.md">🔗js 이벤트 흐름 - 버블링과 캡쳐링</a></li>
 <li>24.04.29 - <a href="https://github.com/100-hours-a-week/jikky-til/blob/main/Apr/2024-04-29.md">🔗인증 인가 공부 - jwt 단점 보완</a></li>
 </ul>
 
