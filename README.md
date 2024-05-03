@@ -5,6 +5,7 @@
 웹 응용 (인증/인가 공부), react 시작
 
 <ul>
+<li>24.05.03 - <a href="https://github.com/100-hours-a-week/jikky-til/blob/main/Apr/2024-05-03.md">🔗useEffect,closure</a></li>
 <li>24.05.02 - <a href="https://github.com/100-hours-a-week/jikky-til/blob/main/Apr/2024-05-02.md">🔗react파일 구조와 실무에서 쓰는 es6</a></li>
 <li>24.04.30 - <a href="https://github.com/100-hours-a-week/jikky-til/blob/main/Apr/2024-04-30.md">🔗js 이벤트 흐름 - 버블링과 캡쳐링</a></li>
 <li>24.04.29 - <a href="https://github.com/100-hours-a-week/jikky-til/blob/main/Apr/2024-04-29.md">🔗인증 인가 공부 - jwt 단점 보완</a></li>
