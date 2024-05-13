@@ -1,6 +1,13 @@
 ## ✏️ Today I Learned
 
-### [4월 다섯째주, 5주차] : 커뮤니티 react
+### [5월 셋째주, 7주차] : 커뮤니티 react hook & java
+
+react hook & java
+
+<ul>
+<li>24.05.13 - <a href="https://github.com/100-hours-a-week/jikky-til/blob/main/Apr/2024-05-13.md">🔗react 커뮤니티 개발 & 그리디 DP 공부</a></li>
+
+### [5월 둘째주, 6주차] : 커뮤니티 react layout
 
 react hook
 
@@ -10,7 +17,7 @@ react hook
 <li>24.05.08 - <a href="https://github.com/100-hours-a-week/jikky-til/blob/main/Apr/2024-05-08.md">🔗useRef,고차함수</a></li>
 </ul>
 
-### [4월 다섯째주, 5주차] : 웹 응용
+### [5월 첫째주, 5주차] : 웹 응용
 
 웹 응용 (인증/인가 공부), react 시작
 
