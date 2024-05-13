@@ -6,6 +6,7 @@ react hook & java
 
 <ul>
 <li>24.05.13 - <a href="https://github.com/100-hours-a-week/jikky-til/blob/main/Apr/2024-05-13.md">🔗react 커뮤니티 개발 & 그리디 DP 공부</a></li>
+</ul>
 
 ### [5월 둘째주, 6주차] : 커뮤니티 react layout
 
