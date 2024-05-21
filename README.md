@@ -1,5 +1,13 @@
 ## ✏️ Today I Learned
 
+### [5월 넷째주, 8주차] : java cli 프로그램
+
+java
+
+<ul>
+<li>24.05.20 - <a href="https://github.com/jjikky/jikky-til/blob/main/May/2024-05-20.md">🔗java 클래스 다이어그램, DP</a></li>
+</ul>
+
 ### [5월 셋째주, 7주차] : 커뮤니티 react hook & java
 
 react hook & java
