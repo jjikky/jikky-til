@@ -5,6 +5,7 @@
 java
 
 <ul>
+<li>24.05.22 - <a href="https://github.com/jjikky/jikky-til/blob/main/May/2024-05-22.md">🔗java collection, interface, 예외 처리 공부 및 적용</a></li>
 <li>24.05.21 - <a href="https://github.com/jjikky/jikky-til/blob/main/May/2024-05-21.md">🔗java CLI 구현</a></li>
 <li>24.05.20 - <a href="https://github.com/jjikky/jikky-til/blob/main/May/2024-05-20.md">🔗java 클래스 다이어그램, DP</a></li>
 </ul>
