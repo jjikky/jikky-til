@@ -5,6 +5,7 @@
 java
 
 <ul>
+<li>24.05.24 - <a href="https://github.com/jjikky/jikky-til/blob/main/May/2024-05-24.md">🔗java 직렬화,  java cli 프로그램에 유저 활동 로그 추가 ( 스레드 이용 ) </a></li>
 <li>24.05.23 - <a href="https://github.com/jjikky/jikky-til/blob/main/May/2024-05-23.md">🔗java thread, race condition</a></li>
 <li>24.05.22 - <a href="https://github.com/jjikky/jikky-til/blob/main/May/2024-05-22.md">🔗java collection, interface, 예외 처리 공부 및 적용</a></li>
 <li>24.05.21 - <a href="https://github.com/jjikky/jikky-til/blob/main/May/2024-05-21.md">🔗java CLI 구현</a></li>
