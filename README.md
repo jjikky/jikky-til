@@ -1,5 +1,13 @@
 ## ✏️ Today I Learned
 
+### [6월 첫째주, 10주차] : SQL
+
+SQL
+
+<ul>
+<li>24.06.03 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-03.md">🔗좋아요 최적화, 트랜잭션, express data mySQL로 이전</a></li>
+</ul>
+
 ### [5월 넷째주, 8주차] : java cli 프로그램
 
 java
