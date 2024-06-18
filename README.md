@@ -1,11 +1,20 @@
 ## ✏️ Today I Learned
 
+### [6월 셋째주, 12주차] : SQL & Spring
+
+aws & Spring & [머라카노]
+
+<ul>
+<li>24.06.18 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-18.md">🔗 deb word spring jwt적용</a></li>
+<li>24.06.17 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-17.md">🔗 ajv, jsonSchema</a></li>
+</ul>
+
+
 ### [6월 둘째주, 11주차] : SQL & Spring
 
 Express & Spring
 
 <ul>
-<li>24.06.17 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-17.md">🔗 ajv, jsonSchema</a></li>
 <li>24.06.16 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-16.md">🔗 머라카노 be 세팅, 회원가입 구현</a></li>
 <li>24.06.15 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-15.md">🔗 머라카노 와이어프레임, 코테 구현 문제풀이</a></li>
 <li>24.06.14 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-14.md">🔗@transactional, 팀 프로젝트 기획</a></li>
