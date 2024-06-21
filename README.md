@@ -5,7 +5,7 @@
 aws & Spring & [머라카노]
 
 <ul>
-<li>24.06.20 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-19.md">🔗 머라카노 카카오로그인 구현</a></li>
+<li>24.06.20 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-20.md">🔗 머라카노 카카오로그인 구현</a></li>
 <li>24.06.19 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-19.md">🔗 ec2, eb, codePipeline, 머라카노 로그인 (+jwt) 구현</a></li>
 <li>24.06.18 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-18.md">🔗 deb word spring jwt적용</a></li>
 <li>24.06.17 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-17.md">🔗 ajv, jsonSchema</a></li>
