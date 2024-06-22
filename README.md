@@ -1,10 +1,11 @@
 ## ✏️ Today I Learned
 
-### [6월 셋째주, 12주차] : SQL & Spring
+### [6월 셋째주, 12주차] : SPRING & AWS
 
 aws & Spring & [머라카노]
 
 <ul>
+<li>24.06.22 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-22.md">🔗 Elastic Beanstalk SSL 적용 (with AWS Certificate Manager)</a></li>
 <li>24.06.21 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-21.md">🔗 JPA 트랜잭션과 락 (동시성제어)</a></li>
 <li>24.06.20 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-20.md">🔗 머라카노 카카오로그인 구현</a></li>
 <li>24.06.19 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-19.md">🔗 ec2, eb, codePipeline, 머라카노 로그인 (+jwt) 구현</a></li>
