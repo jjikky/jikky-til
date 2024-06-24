@@ -1,5 +1,13 @@
 ## ✏️ Today I Learned
 
+### [6월 넷째주, 13주차] : SPRING & AWS
+
+aws & Spring & [머라카노]
+
+<ul>
+<li>24.06.24 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-24.md">🔗이슈 파티 (public ipv4과금, styled component, next env, root domain ssl 적용)</a></li>
+</ul>
+
 ### [6월 셋째주, 12주차] : SPRING & AWS
 
 aws & Spring & [머라카노]
