@@ -5,6 +5,7 @@
 aws & Spring & [머라카노]
 
 <ul>
+<li>24.06.25 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-25.md">🔗머라카노 공용 컴포넌트 개발 및 잡다한 이슈 해결</a></li>
 <li>24.06.24 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-24.md">🔗이슈 파티 (public ipv4과금, styled component, next env, root domain ssl 적용)</a></li>
 </ul>
 
