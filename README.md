@@ -5,6 +5,7 @@
 aws & Spring & [머라카노]
 
 <ul>
+<li>24.06.29 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-29.md">🔗cookie - sameSite 이슈</a></li>
 <li>24.06.28 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-28.md">🔗useEffect 렌더링 이슈, 쿠버네티스 개념 정리</a></li>
 <li>24.06.27 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-27.md">🔗리프레시 토큰 회전, 스프링 게시글 생성</a></li>
 <li>24.06.26 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-26.md">🔗리눅스 명령어 분석, 스프링 깡통 도커 배포</a></li>
