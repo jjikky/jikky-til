@@ -1,6 +1,15 @@
 ## ✏️ Today I Learned
 
-### [6월 넷째주, 13주차] : SPRING & AWS
+### [7월 첫째주, 14주차] : 쿠버네티스, 배포, 머라카노
+
+쿠버네티스 & 배포 & [머라카노]
+
+<ul>
+<li>24.07.01 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-07-01.md">🔗머라카노 회원가입 FE & BE 디비관련 작업</a></li>
+</ul>
+
+
+### [6월 넷째주, 13주차] : SPRING & AWS , 머라카노
 
 aws & Spring & [머라카노]
 
@@ -14,7 +23,7 @@ aws & Spring & [머라카노]
 <li>24.06.24 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-24.md">🔗이슈 파티 (public ipv4과금, styled component, next env, root domain ssl 적용)</a></li>
 </ul>
 
-### [6월 셋째주, 12주차] : SPRING & AWS
+### [6월 셋째주, 12주차] : SPRING & AWS , 머라카노
 
 aws & Spring & [머라카노]
 
@@ -27,7 +36,7 @@ aws & Spring & [머라카노]
 <li>24.06.17 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jun/2024-06-17.md">🔗 ajv, jsonSchema</a></li>
 </ul>
 
-### [6월 둘째주, 11주차] : SQL & Spring
+### [6월 둘째주, 11주차] : SQL & Spring , 머라카노
 
 Express & Spring
 
