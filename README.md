@@ -5,6 +5,7 @@
 쿠버네티스 & 배포 & [머라카노]
 
 <ul>
+<li>24.07.03 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-03.md">🔗도커파일,컨테이너 레지스트리</a></li>
 <li>24.07.02 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-02.md">🔗머라카노 인증인가 이슈 임시 해결</a></li>
 <li>24.07.01 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-01.md">🔗머라카노 회원가입 FE & BE 디비관련 작업</a></li>
 </ul>
