@@ -4,6 +4,14 @@
 
 쿠버네티스 & 배포 & [머라카노]
 <ul>
+<li>24.07.08 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-08.md">🔗예비군 1일차 & 쿠키 이슈 해결!! + next middleware</a></li>
+</ul>
+
+
+### [7월 첫째주, 14주차] : 쿠버네티스, 배포, 머라카노
+
+쿠버네티스 & 배포 & [머라카노]
+<ul>
 <li>24.07.07 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-07.md">🔗특정 ip의 분당 요청 제한 설정</a></li>
 <li>24.07.06 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-06.md">🔗silent refresh이슈 해결</a></li>
 <li>24.07.05 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-05.md">🔗Prometheus & Grafana ec2에 연결해서 모니터링</a></li>
