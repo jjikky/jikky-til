@@ -4,7 +4,8 @@
 
 쿠버네티스 & 배포 & [머라카노]
 <ul>
-<li>24.07.13 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-13.md">🔗인증인가 총정리, redis 활용 RTT 재사용 검증</a></li>
+<li>24.07.14 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-14.md">🔗RTR + redis 토큰 탈취 시나리오</a></li>
+<li>24.07.13 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-13.md">🔗인증인가 총정리, redis 활용 RTR 재사용 검증</a></li>
 <li>24.07.12 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-12.md">🔗머라카노 아키텍처</a></li>
 <li>24.07.11 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-11.md">🔗예비군 4일차 & 다익스트라</a></li>
 <li>24.07.10 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-10.md">🔗예비군 3일차 & 머라카노 QA</a></li>
