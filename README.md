@@ -5,6 +5,7 @@
 
 프로젝트와 포폴 정리
 <ul>
+<li>24.07.16 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-16.md">🔗swagger, 머라카노 2차 QA 이슈 해결 </a></li>
 <li>24.07.15 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-15.md">🔗React, MongDB특수문자 이슈, 머라카노 2차 QA </a></li>
 </ul>
 
