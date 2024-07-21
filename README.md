@@ -5,6 +5,7 @@
 
 프로젝트와 포폴 정리
 <ul>
+<li>24.07.21 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-21.md">🔗머라카노 최종 QA & 연관 검색어 정렬 알고리즘 구현</a></li>
 <li>24.07.20 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-20.md">🔗짧은 회고&http 상태코드 전달 &client ip가져오기</a></li>
 <li>24.07.17 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-17.md">🔗머라카노 자료 정리 & 스프링 강의 시작 </a></li>
 <li>24.07.16 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-16.md">🔗swagger, 머라카노 2차 QA 이슈 해결 </a></li>
