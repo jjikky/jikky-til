@@ -1,5 +1,11 @@
 ## ✏️ Today I Learned
 
+### [7월 넷째주, 17주차] : 파이널 기획, NEXT 공부
+
+파이널 기획, NEXT 공부
+<ul>
+<li>24.07.22 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-22.md">🔗NEXT병렬 데이터 페치 & 파이널 기획 & 머라카노 리드미</a></li>
+</ul>
 
 ### [7월 셋째주, 16주차] : 포폴, 머라카노 끝
 
