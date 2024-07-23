@@ -4,6 +4,7 @@
 
 파이널 기획, NEXT 공부
 <ul>
+<li>24.07.23 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-23.md">🔗TCP&UDP, WebRTC 기초</a></li>
 <li>24.07.22 - <a href="https://github.com/jjikky/jikky-til/blob/main/Jul/2024-07-22.md">🔗NEXT병렬 데이터 페치 & 파이널 기획 & 머라카노 리드미</a></li>
 </ul>
 
